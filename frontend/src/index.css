@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/flat-drawn-purple-striped-background_23-2149592145.jpg?t=st=1714827581~exp=1714831181~hmac=4784324c9608c762eb04b0576f674169b7f50bc774f36de6c4c1bb4dbabb1e0f&w=1380);
+    background-size: cover;
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
